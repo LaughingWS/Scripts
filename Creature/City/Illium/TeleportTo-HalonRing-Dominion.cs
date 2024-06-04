@@ -1,7 +1,7 @@
-﻿using NexusForever.WorldServer.Game.Entity;
+using NexusForever.WorldServer.Game.Entity;
 using System.Numerics;
 
-namespace NexusForever.WorldServer.Script.Creature.Transporters
+namespace NexusForever.WorldServer.Script.Creature.City.Illium
 {
     [Script(46182)]
     public class TeleportTo_HalonRing : CreatureScript
